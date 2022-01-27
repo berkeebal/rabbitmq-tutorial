@@ -23,5 +23,6 @@ channel.basic_publish(
         delivery_mode=pika.spec.PERSISTENT_DELIVERY_MODE
     )
 )
+
 print(" [x] Sent %r" % message)
 connection.close()
