@@ -13,6 +13,8 @@ with docker and python3.
 - Build you `docker image`
 - Run your `docker image`
 
+**Note**: Default port for rabbitmq is `5672`, for GUI `15672`
+
 ### Hello World
 
 Smallest thing that can actually do something

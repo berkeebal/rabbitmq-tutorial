@@ -11,4 +11,4 @@ RUN ["chmod", "+x", "/init.sh"]
 EXPOSE 15672
 
 # Define default command
-CMD ["/init.sh"]
+# CMD ["/init.sh"]
